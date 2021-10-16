@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masakan Nusantara</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+</head>
+<div class="contact-form">
+        <h3 class="section-title">Silahkan Pesan di Sini</h3>
+        <p>Email/No Handphone (Wajib Diisi)</p>
+        <input>
+        
+        <p>Nama Makanan</p>
+        <textarea></textarea>
+        
+        <p>Jumlah</p>
+        <textarea></textarea>
+        <div class="message-wrapper">
+        <span class="btn message">Kirim</span>
+        </div>
+    </div>
+</body>
+</html>
